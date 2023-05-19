@@ -1,0 +1,5 @@
+{
+    "require": {
+        "socialiteproviders/keycloak": "^5.3"
+    }
+}
